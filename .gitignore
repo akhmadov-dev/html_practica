@@ -1,2 +1,5 @@
 # PhpStorm project file
 .idea/
+
+# Vscode project file
+.vscode/
